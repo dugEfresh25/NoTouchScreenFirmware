@@ -8,7 +8,7 @@
 #define LCD_FULLSCREEN
 
 // Mirror screen horizontally
-//#define LCD_MIRROR_HORIZONTALLY
+define LCD_MIRROR_HORIZONTALLY
 
 // Mirror screen vertically
 //#define LCD_MIRROR_VERTICALLY
